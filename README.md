@@ -1,4 +1,8 @@
-### Hi there 👋
+hi, im max and im cool
+at least i think i am
+
+
+well im currently working on cpp stuff like learning it in general. Most of my repositories are public even though i have github pro (i dont really use it).
 
 <!--
 **maxlovesairandteslas1/maxlovesairandteslas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
