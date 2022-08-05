@@ -11,7 +11,6 @@ at least i think i am
 
 well im currently working on c++ stuff like learning it in general. Most of my repositories are public even though i have github pro (i dont really use it).
 
-[![max's github stats](https://github-readme-stats.vercel.app/api?username=maxlovesairandteslas1&show_icons=true&theme=radical)]()
 
 ### things that i am ok at
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -40,6 +39,6 @@ for these buttons, click on the button, and on the new tab click on it again
 
 ### my stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxlovesairandteslas1&show_icons=true&locale=en&layout=compact" alt="maxlovesairandteslas1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxlovesairandteslas1&show_icons=true&locale=en&layout=compact1&theme=radical" alt="maxlovesairandteslas1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxlovesairandteslas1&show_icons=true&locale=en" alt="maxlovesairandteslas1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxlovesairandteslas1&show_icons=true&locale=en&theme=radical" alt="maxlovesairandteslas1" /></p>
