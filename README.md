@@ -39,6 +39,7 @@ for these buttons, click on the button, and on the new tab click on it again
 
 ### my stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxlovesairandteslas1&show_icons=true&locale=en&layout=compact1&theme=radical" alt="maxlovesairandteslas1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxlovesairandteslas1&show_icons=true&locale=en&theme=radical" alt="maxlovesairandteslas1" /></p>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d2e8f475-8712-4985-9f71-8fbae2a75266/e6ba2463-8882-4a6c-ae89-77381974763e.png" /></a>
