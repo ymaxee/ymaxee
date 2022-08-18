@@ -20,7 +20,7 @@ I use:
 the weirdest emoji in github:
 😶‍🌫️
 ```
-:face_in_clouds
+:face_in_clouds:
 ```
 <!--
 https://rahuldkjain.github.io/gh-profile-readme-generator/
