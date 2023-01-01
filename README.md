@@ -35,7 +35,7 @@ https://img.shields.io/badge/-instagram-blueviolet?style=flat&logo=instagram
 
 <h3 align="left">social and spotify</h3>
 <p>reach me at <strong>maxlovesairandteslas@gmail.com</strong></p>
-<p float="left"> <img src="https://img.shields.io/badge/my-website-sucess?logo=Google-Chrome?link=https://maxxietaxi.carrd.co/&link=https://maxxietaxi.carrd.co/" alt="my website" /> <img src="https://img.shields.io/badge/-instagram-blueviolet?style=flat&logo=instagram?link=https://www.instagram.com/y.maxeee//&link=https://www.instagram.com/y.maxeee/" alt="my insta"/></p>
+<p float="left"> <img src="https://img.shields.io/badge/my-website-sucess?logo=Google-Chrome?link=https://maxxietaxi.carrd.co/&link=https://maxxietaxi.carrd.co/" alt="my website" /> <img src="https://img.shields.io/badge/-instagram-blueviolet?style=flat&logo=instagram?link=https://www.instagram.com/y.maxee/&link=https://www.instagram.com/y.maxee/" alt="my insta"/></p>
 
 for these buttons, click on the button, and on the new tab click on it again
 
