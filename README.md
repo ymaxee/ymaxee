@@ -5,7 +5,7 @@
 
 ![](https://img.shields.io/badge/-information-informational)
 
-hi, im max and im cool
+hi, im max and im cool <br />
 at least i think i am
 
 
