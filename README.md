@@ -33,10 +33,6 @@ https://img.shields.io/badge/-instagram-blueviolet?style=flat&logo=instagram
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxlovesairandteslas1&label=Profile%20views&color=0e75b6&style=flat" alt="maxlovesairandteslas1" /> </p>
 
 
-<h3 align="left">social and spotify</h3>
-<p>reach me at <strong>maxlovesairandteslas@gmail.com</strong></p>
-<p float="left"> <img src="https://img.shields.io/badge/my-website-sucess?logo=Google-Chrome?link=https://maxxietaxi.carrd.co/&link=https://maxxietaxi.carrd.co/" alt="my website" /> <img src="https://img.shields.io/badge/-instagram-blueviolet?style=flat&logo=instagram?link=https://www.instagram.com/y.maxee/&link=https://www.instagram.com/y.maxee/" alt="my insta"/></p>
-
 for these buttons, click on the button, and on the new tab click on it again
 
 ![spotify](https://spotify-recently-played-readme.vercel.app/api?user=s11664oii0b2lskdyqna75oiq)
