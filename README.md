@@ -31,13 +31,3 @@ https://img.shields.io/badge/-instagram-blueviolet?style=flat&logo=instagram
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxlovesairandteslas1&label=Profile%20views&color=0e75b6&style=flat" alt="maxlovesairandteslas1" /> </p>
-
-
-
-
-### my stats
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxlovesairandteslas1&show_icons=true&locale=en&theme=radical" alt="maxlovesairandteslas1" /></p>
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d2e8f475-8712-4985-9f71-8fbae2a75266/e6ba2463-8882-4a6c-ae89-77381974763e.png" /></a>
