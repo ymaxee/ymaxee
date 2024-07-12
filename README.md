@@ -1,5 +1,5 @@
 <h1 align="center">hi im max</h1>
-<h3 align="center">good dev</h3>
+<h3 align="center">really cool person !!</h3>
 
 ![](https://user-images.githubusercontent.com/77656052/182915982-ecfef4b4-6cdd-459a-9d3b-f9af8240eac8.svg)
 
@@ -9,7 +9,7 @@ hi, im max and im cool <br />
 at least i think i am
 
 
-well im currently working on c++ stuff like learning it in general. Most of my repositories are public even though i have github pro (i dont really use it).
+well im currently working on c++ stuff like learning it in general. Most of my repositories are public even though i have github pro
 I use:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
