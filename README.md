@@ -1,7 +1,7 @@
 <h1 align="center">hi im max</h1>
 <h3 align="center">really cool person !!</h3>
 
-![](https://user-images.githubusercontent.com/77656052/182915982-ecfef4b4-6cdd-459a-9d3b-f9af8240eac8.svg)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=thanks++for+visiting+my+profile!)
 
 ![](https://img.shields.io/badge/-information-informational)
 
